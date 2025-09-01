@@ -1,50 +1,33 @@
-# Welcome to your Expo app 👋
+# esTAP! – Multiplayer Word Game App 🎮
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**Status:** In Progress  
+**Built With:** React Native · Expo Go · Firebase · JavaScript  
 
-## Get started
+## 📱 What is esTAP?
 
-1. Install dependencies
+esTAP is a mobile game app version of the classic STOP word game. Players race against the clock to list words starting with a random letter under categories like names, cities, and food!
 
-   ```bash
-   npm install
-   ```
+## 🔧 Features
 
-2. Start the app
+- 🏁 Game lobby with category and timer setup
+- 🔡 Random letter generator
+- 📝 Game screen with input validation
+- 🔐 Firebase Authentication
+- ☁️ Real-time database with Firestore
+- 🔄 Built with Expo Go for quick testing and development
 
-   ```bash
-   npx expo start
-   ```
+## 🛠️ Tech Stack
 
-In the output, you'll find options to open the app in a
+- React Native
+- Firebase (Auth & Firestore)
+- Expo Go
+- JavaScript
+- VS Code
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 📌 Coming Soon
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- Multiplayer support with synced rounds
+- Results screen and scoring
+- Leaderboard system
 
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## 👩‍💻 Made by Jhosmeily Hernandez
