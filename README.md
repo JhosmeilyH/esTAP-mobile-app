@@ -47,6 +47,8 @@ React Native • Firebase • Expo Go
 
 ## 🎥 Demo Video
 
+![Demo](./screenshots/demo.mp4)
+
 ## 🔗 Try It on Your Phone
 
 Scan the QR code with the **Expo Go** app:
