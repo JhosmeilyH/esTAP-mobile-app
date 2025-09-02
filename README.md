@@ -30,4 +30,27 @@ esTAP is a mobile game app version of the classic STOP word game. Players race a
 - Results screen and scoring
 - Leaderboard system
 
+# esTAP! – Multiplayer Word Game App 🎮
+
+React Native • Firebase • Expo Go
+
+## 📸 Screenshots
+
+### Welcome Screen
+![Welcome](./screenshots/welcome.png)
+
+### Game Lobby
+![Lobby](./screenshots/lobby.png)
+
+### Game Screen
+![Game](./screenshots/game.png)
+
+## 🎥 Demo Video
+
+## 🔗 Try It on Your Phone
+
+Scan the QR code with the **Expo Go** app:
+
+![QR Code](./screenshots/esTAP-QR.png)
+
 ## 👩‍💻 Made by Jhosmeily Hernandez
