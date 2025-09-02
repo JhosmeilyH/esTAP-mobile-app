@@ -37,13 +37,13 @@ React Native • Firebase • Expo Go
 ## 📸 Screenshots
 
 ### Welcome Screen
-![Welcome](esTAP-mobile-app/screenshots/welcome.png)
+![Welcome](./screenshots/welcome.png)
 
 ### Game Lobby
-![Lobby](esTAP-mobile-app/screenshots/lobby.png)
+![Lobby](./screenshots/lobby.png)
 
 ### Game Screen
-![Game](esTAP-mobile-app/screenshots/game.png)
+![Game](./screenshots/game.png)
 
 ## 🎥 Demo Video
 
