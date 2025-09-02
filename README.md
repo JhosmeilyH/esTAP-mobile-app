@@ -45,9 +45,6 @@ React Native • Firebase • Expo Go
 ### Game Screen
 ![Game](./screenshots/game.png)
 
-## 🎥 Demo Video
-
-![Demo](./screenshots/demo.mp4)
 
 ## 🔗 Try It on Your Phone
 
